@@ -1,5 +1,4 @@
 # meaningisuse
-Some useful script!
 
 ### ubuntu_lts_enable_bbr.sh
 ``` bash
