@@ -6,5 +6,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ```
 ### opkg-upgrade.sh
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/opkg-upgrade.sh && chmod +x opkg-upgrade.sh && bash opkg-upgrade.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/opkg-upgrade.sh && chmod +x opkg-upgrade.sh && ./opkg-upgrade.sh
 ```
