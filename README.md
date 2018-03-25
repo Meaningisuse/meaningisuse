@@ -8,3 +8,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/opkg-upgrade.sh && chmod +x opkg-upgrade.sh && ./opkg-upgrade.sh
 ```
+
+### gentoo package.sh
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/gentoo-package.sh && chmod +x gentoo-package.sh && ./gento-package.sh
+```
