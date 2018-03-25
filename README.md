@@ -11,5 +11,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 
 ### gentoo package.sh
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/gentoo-package.sh && chmod +x gentoo-package.sh && ./gento-package.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/gentoo-package.sh && chmod +x gentoo-package.sh && ./gentoo-package.sh
 ```
