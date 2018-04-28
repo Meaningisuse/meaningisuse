@@ -92,8 +92,6 @@ carrierservices
 
 stock_gapps_list="
 cameragoogle
-duo
-hangouts
 keyboardgoogle
 vrservice
 wallpapers
@@ -113,16 +111,12 @@ cloudprint
 docs
 drive
 fitness
-googleplus
 keep
-movies
 music
 newsstand
-newswidget
 playgames
 sheets
 slides
-talkback
 ";
 
 mini_gapps_list="
@@ -130,7 +124,6 @@ clockgoogle
 maps
 messenger
 photos
-youtube
 calculatorgoogle
 taggoogle
 ";
@@ -139,7 +132,6 @@ micro_gapps_list="
 calendargoogle
 exchangegoogle
 gmail
-googlenow
 ";
 
 nano_gapps_list="
@@ -203,11 +195,15 @@ tvrecommendations
 default_stock_remove_list="
 browser
 camerastock
+cmaudiofx
+cmmusic
 email
 gallery
+keyboardstock
 launcher
 mms
 picotts
+simtoolkit
 webviewstock
 ";
 # _____________________________________________________________________________________________________________________
