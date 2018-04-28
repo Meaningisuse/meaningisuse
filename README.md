@@ -16,5 +16,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 
 ### OpenGapps stock 
 ``` bash 
-wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/install.sh 
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/installer.sh 
 ```
