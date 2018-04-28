@@ -13,3 +13,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/gentoo-package.sh && chmod +x gentoo-package.sh && ./gentoo-package.sh
 ```
+
+### OpenGapps stock 
+``` bash 
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/install.sh 
+```
