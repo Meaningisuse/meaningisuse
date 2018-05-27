@@ -32,29 +32,25 @@ def work(times):
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(2)
-
-	logging.debug('点击自动按钮...')
-	tap_screen(autoPos)
-	sleep(65)
+	sleep(82)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(10)
+	sleep(9)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(7)
+	sleep(6)
 
 	logging.debug('点击任意处继续...')
 	tap_screen(continuePos)
-	sleep(5)
+	sleep(7)
 
 	for i in xrange(1, times):
 		logging.debug('第{}次刷副本...'.format(i+1))
 		logging.debug('点击再次挑战按钮...')
 		tap_screen(againPos)
-		sleep(3)
+		sleep(9)
 
 		logging.debug('点击闯关按钮...')
 		tap_screen(startPos)
@@ -62,26 +58,22 @@ def work(times):
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(2)
-
-		logging.debug('点击自动按钮...')
-		tap_screen(autoPos)
-		sleep(65)
+		sleep(82)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(10)
+		sleep(11)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(5)
+		sleep(6)
 
 		logging.debug('点击任意处继续...')
 		tap_screen(continuePos)
-		sleep(3)
+		sleep(6)
 
 
 if __name__ == '__main__':
-	work(20)
+	work(30)
 	
 		
