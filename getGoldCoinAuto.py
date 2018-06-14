@@ -32,7 +32,7 @@ def work(times):
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(82)
+	sleep(77)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
@@ -58,7 +58,7 @@ def work(times):
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(82)
+		sleep(77)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
@@ -74,6 +74,6 @@ def work(times):
 
 
 if __name__ == '__main__':
-	work(30)
+	work(60)
 	
 		
