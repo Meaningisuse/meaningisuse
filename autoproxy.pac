@@ -111,6 +111,7 @@ var rules = [
             "googletagservices.com",
             "googletagmanager.com",
             "mirror.vinahost.vn",
+            "dreamcreator108.com",
             "uappexplorer.com",
             "bloglines.com",
             "ubuntu.com",
