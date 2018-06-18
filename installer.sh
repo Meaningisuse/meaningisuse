@@ -78,20 +78,12 @@ super_gapps_list="
 dmagent
 earth
 gcs
-googlepay
-indic
-japanese
-korean
-pinyin
-projectfi
 street
 translate
-zhuyin
 carrierservices
 ";
 
 stock_gapps_list="
-cameragoogle
 keyboardgoogle
 vrservice
 wallpapers
@@ -105,14 +97,12 @@ pixelicons
 ";
 
 full_gapps_list="
-books
 chrome
 cloudprint
 docs
 drive
 fitness
 keep
-music
 newsstand
 playgames
 sheets
@@ -202,6 +192,7 @@ gallery
 keyboardstock
 launcher
 mms
+omniswitch
 picotts
 simtoolkit
 webviewstock
@@ -512,7 +503,8 @@ noisefield_list="
 app/NoiseField"
 
 omniswitch_list="
-priv-app/OmniSwitch"
+priv-app/OmniSwitch
+priv-app/Snap"
 
 # Must be used when Google PackageInstaller is installed; non-capitalized spelling on Lenovo K3 Note
 packageinstallerstock_list="

@@ -18,3 +18,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ``` bash 
 wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/installer.sh 
 ```
+
+### After install kubuntu 18.04
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/ubuntu 18.04.sh && chmod +x ubuntu 18.04.sh && ./ubuntu 18.04.sh
+```
