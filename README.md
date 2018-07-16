@@ -23,3 +23,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/ubuntu_18.04.sh && chmod +x ubuntu_18.04.sh && ./ubuntu_18.04.sh
 ```
+
+### ShadowsocksR install
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/debian_shadowsocksr.sh && chmod +x debian_shadowsocksr.sh && ./debian_shadowsocksr.sh
+```
