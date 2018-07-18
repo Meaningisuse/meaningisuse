@@ -111,6 +111,7 @@ var rules = [
             "devdocs.io",
             "googletagservices.com",
             "googletagmanager.com",
+            "google-analytics.com",
             "mirror.vinahost.vn",
             "dreamcreator108.com",
             "gradle.org",
