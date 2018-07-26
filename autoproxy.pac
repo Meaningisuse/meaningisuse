@@ -114,6 +114,8 @@ var rules = [
             "google-analytics.com",
             "mirror.vinahost.vn",
             "dreamcreator108.com",
+            "opendesktop.org",
+            "github.io",
             "gradle.org",
             "teddysun.com",
             "freenom.com",
