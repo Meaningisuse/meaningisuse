@@ -28,7 +28,7 @@ def work(times):
 	logging.debug('第1次刷副本...')
 	logging.debug('点击闯关按钮...')
 	tap_screen(startPos)
-	sleep(9)
+	sleep(10)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
@@ -54,7 +54,7 @@ def work(times):
 
 		logging.debug('点击闯关按钮...')
 		tap_screen(startPos)
-		sleep(9)
+		sleep(10)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
