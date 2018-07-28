@@ -115,6 +115,7 @@ var rules = [
             "mirror.vinahost.vn",
             "dreamcreator108.com",
             "opendesktop.org",
+            "betacat.online",
             "github.io",
             "gradle.org",
             "teddysun.com",
