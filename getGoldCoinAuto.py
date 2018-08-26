@@ -1,5 +1,5 @@
 # coding: utf-8
-# 
+#
 import os
 import logging
 from random import uniform
@@ -28,15 +28,15 @@ def work(times):
 	logging.debug('第1次刷副本...')
 	logging.debug('点击闯关按钮...')
 	tap_screen(startPos)
-	sleep(10)
+	sleep(11)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(62)
+	sleep(61)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
-	sleep(7)
+	sleep(9)
 
 	logging.debug('点击跳过按钮...')
 	tap_screen(skipPos)
@@ -54,15 +54,15 @@ def work(times):
 
 		logging.debug('点击闯关按钮...')
 		tap_screen(startPos)
-		sleep(10)
+		sleep(11)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(62)
+		sleep(61)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
-		sleep(7)
+		sleep(9)
 
 		logging.debug('点击跳过按钮...')
 		tap_screen(skipPos)
@@ -75,5 +75,3 @@ def work(times):
 
 if __name__ == '__main__':
 	work(120)
-	
-		

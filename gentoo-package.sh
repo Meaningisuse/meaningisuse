@@ -1,9 +1,10 @@
 #!/bin/bash
 # check root
-if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as root"
-   exit 1
+f [ "$(whoami)" != "root" ]
+then
+    sudo su -s "$0"
+    exit
 fi
 #install package
 emerge --sync
-emerge --ask ">uget-2.0" aria2 gimp 
+emerge --ask ">uget-2.0" aria2 gimp

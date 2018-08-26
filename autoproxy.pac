@@ -117,6 +117,7 @@ var rules = [
             "opendesktop.org",
             "betacat.online",
             "github.io",
+            "kde.org",
             "gradle.org",
             "teddysun.com",
             "freenom.com",
