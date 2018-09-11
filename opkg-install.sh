@@ -1,2 +1,2 @@
 #!/bin/sh
-opkg install luci-i18n-base-zh-cn luci-i18n-firewall-zh-cn adblock luci-app-adblock luci-i18n-adblock-zh-cn luci-theme-material wget
+opkg install luci-i18n-base-zh-cn luci-i18n-firewall-zh-cn adblock luci-app-adblock luci-i18n-adblock-zh-cn luci-theme-material wget luci-app-shadowsocks-libev htop luci-i18n-shadowsocks-libev-zh-cn shadowsocks-libev luci-app-watchcat watchcat luci-i18n-watchcat-zh-cn luci-app-upnp luci-i18n-upnp-zh-cn luci-app-wol luci-i18n-wol-zh-cn luci-app-commands luci-i18n-commands-zh-cn luci-app-ddns luci-i18n-ddns-zh-cn
