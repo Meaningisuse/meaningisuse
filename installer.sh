@@ -504,7 +504,6 @@ app/NoiseField"
 
 omniswitch_list="
 priv-app/OmniSwitch
-priv-app/Snap"
 
 # Must be used when Google PackageInstaller is installed; non-capitalized spelling on Lenovo K3 Note
 packageinstallerstock_list="
