@@ -33,3 +33,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/me
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/Debian-9.sh && chmod +x Debian-9.sh && ./Debian-9.sh
 ```
+
+### Google Cloud Debian 9
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/Meaningisuse/meaningisuse/master/google_debian9.sh && chmod +x google_debian9.sh && ./google_debian9.sh
+```
