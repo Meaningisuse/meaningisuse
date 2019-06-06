@@ -12,4 +12,5 @@ apt update
 apt install -y docker-ce docker-ce-cli containerd.io
 systemctl enable docker
 curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+curl https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o /etc/bash_completion.d/docker.sh
 chmod a+x /usr/local/bin/docker-compose
